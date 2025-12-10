@@ -1,5 +1,7 @@
 # HR Policy Neural Search 📋
 
+[Live Demo](https://hr-policy-neural-search.streamlit.app/)
+
 A **Retrieval-Augmented Generation (RAG)** application for querying HR policy documents using natural language. Built with Streamlit, LangChain, FAISS, and Google Gemini.
 
 ![HR Policy Neural Search](https://img.shields.io/badge/Python-3.10+-blue.svg)
