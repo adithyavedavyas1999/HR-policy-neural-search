@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python packaging
+*.egg-info/
+build/
+dist/
+
+# Streamlit / app artifacts
+.streamlit/
+.cache/
+
+# Project data / runtime stores
+faiss_store/
+agent-tools/
+terminals/
+
+# Logs
+*.log
+
